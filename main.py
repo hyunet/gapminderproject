@@ -6,7 +6,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🌍 SDGs 분석 대시보드 by 석리송🎵")
+st.title("🌍 SDGs 분석 대시보드")
 
 st.markdown(
     """
